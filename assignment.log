@@ -101,3 +101,10 @@ file1.txt renamed as file1new.txt
 file2.txt renamed as file2new.txt
 xray.txt renamed as xraynew.txt
 Fri Jun 28 19:19:04 IST 2013
+
+Changing Access ./public_html/readme.txt to 777:=
+
+Changing Access ./public_html/readme.txt to 777:=
+total 0
+-rwxrwxrwx 1 webonise webonise 0 Jun 28 19:24 readme.txt
+Fri Jun 28 19:24:48 IST 2013

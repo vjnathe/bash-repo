@@ -1,1 +1,1 @@
-(echo "\nRenamed Files:=" && rename -v s/.txt/new.txt/ *.txt && date) >> assignment.log && ls *.txt
+(echo "\nChanging Access ./public_html/readme.txt to 777:=" && chmod 777 ./public_html/readme.txt && ls -l ./public_html/ && date)>>assignment.log
