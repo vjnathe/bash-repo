@@ -1,1 +1,1 @@
-(echo "\nType and version of OS:=" && uname -a && date)>>assignment.log
+(echo "\nHome full path:=" && find `pwd` -name home && date)>>assignment.log
