@@ -1,1 +1,1 @@
-(echo "\nFiles if Present Working Directory as well in its sub-direcories:=" && find . -type f)>>assignment.log
+(echo "\nRenamed Files:=" && rename -v s/.txt/new.txt/ *.txt && date) >> assignment.log && ls *.txt

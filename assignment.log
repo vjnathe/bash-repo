@@ -95,3 +95,9 @@ Files if Present Working Directory as well in its sub-direcories:=
 ./.git/objects/01/02a24ea13efbc0ae0db43d97907bcd59eb87c6
 ./.git/objects/c8/bb556c5c82072b857d7dc29ef59eec0914d475
 ./.git/index
+
+Renamed Files:=
+file1.txt renamed as file1new.txt
+file2.txt renamed as file2new.txt
+xray.txt renamed as xraynew.txt
+Fri Jun 28 19:19:04 IST 2013
