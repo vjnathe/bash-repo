@@ -1,1 +1,1 @@
-(echo "\nUsers Logged:=:" && who)>>assignment.log
+(echo "\nMy Group:=" && whoami)>>assignment.log
