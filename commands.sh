@@ -1,1 +1,1 @@
-(echo "Hostname is:=" && uname -n && date)>assignment.log
+(echo "\nType and version of OS:=" && uname -a && date)>>assignment.log
